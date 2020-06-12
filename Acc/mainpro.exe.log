@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "GUI\Input\tstsnd.pyc", line 525, in numsnd
+    
+  File "wx\grid.pyc", line 2016, in SetCellValue
+TypeError: String or Unicode type required
+Traceback (most recent call last):
+  File "GUI\Input\tstsnd.pyc", line 525, in numsnd
+    
+  File "wx\grid.pyc", line 2016, in SetCellValue
+TypeError: String or Unicode type required
+Traceback (most recent call last):
+  File "GUI\window.pyc", line 123, in OnMenu
+    
+  File "GUI\proman.pyc", line 61, in DoProgram
+    
+  File "GUI\proman.pyc", line 39, in program
+    
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "GUI\window.pyc", line 123, in OnMenu
+    
+  File "GUI\proman.pyc", line 61, in DoProgram
+    
+  File "GUI\proman.pyc", line 39, in program
+    
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "GUI\window.pyc", line 129, in OnMenu
+    
+  File "GUI\Connect\IApp.pyc", line 64, in main
+    
+IOError: [Errno 2] No such file or directory: 'h:\\Account\\CM22\\Sale\\GUI\\Input\\fkt4.py'
+Traceback (most recent call last):
+  File "GUI\window.pyc", line 129, in OnMenu
+    
+  File "GUI\Connect\IApp.pyc", line 64, in main
+    
+IOError: [Errno 2] No such file or directory: 'h:\\Account\\CM22\\Cash\\GUI\\Input\\CSR2.py'
